@@ -1,0 +1,38 @@
+/* ==============
+icon css
+================== */
+i.adv-masonry-gallery::before {
+	content: "";
+	display: block;
+	width: 32px;
+	height: 32px;
+	margin: 0 auto;
+	background-image: url("data:image/svg+xml,%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='2' y='2' width='28' height='28' rx='2' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='6' y='6' width='8' height='6' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='18' y='6' width='8' height='10' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='18' y='20' width='8' height='6' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='6' y='16' width='8' height='10' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3C/svg%3E");
+}
+  
+i.adv-gallery-grid::before { 
+	content: "";
+	display: block;
+	width: 32px;
+	height: 32px;
+	margin: 0 auto;
+	background-image: url("data:image/svg+xml,%0A%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='2' y='2' width='28' height='28' rx='2' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='6' y='6' width='8' height='4' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='18' y='6' width='8' height='4' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='6' y='14' width='8' height='4' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='18' y='14' width='8' height='4' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='6' y='22' width='8' height='4' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='18' y='22' width='8' height='4' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
+}
+
+i.adv-filterable-gallery::before { 
+	content: "";
+	display: block;
+	width: 32px;
+	height: 32px;
+	margin: 0 auto;
+	background-image: url("data:image/svg+xml,%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='2' y='2' width='28' height='28' rx='2' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='6' y='10' width='8' height='6' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='18' y='10' width='8' height='6' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='6' y='20' width='8' height='6' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='18' y='20' width='8' height='6' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Cline x1='6' y1='6' x2='8' y2='6' stroke='%23E0E1E3' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='12' y1='6' x2='14' y2='6' stroke='%23E0E1E3' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='18' y1='6' x2='20' y2='6' stroke='%23E0E1E3' stroke-width='2' stroke-linecap='round'/%3E%3Cline x1='24' y1='6' x2='26' y2='6' stroke='%23E0E1E3' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E%0A");
+}
+
+i.adv-justified-gallery::before { 
+	content: "";
+	display: block;
+	width: 32px;
+	height: 32px;
+	margin: 0 auto;
+	background-image: url("data:image/svg+xml,%0A%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='2' y='2' width='28' height='28' rx='2' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='6' y='6' width='8' height='13' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='18' y='6' width='8' height='4' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='18' y='13' width='8' height='6' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='6' y='22' width='8' height='4' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3Crect x='18' y='22' width='8' height='4' stroke='%23E0E1E3' stroke-width='2' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
+}

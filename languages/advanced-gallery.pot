@@ -1,0 +1,298 @@
+# Copyright (C) 2023
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-31 09:03:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kraft Plugins\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../advanced-gallery\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/classes/class-widget.php:308
+msgid "Please add images to the gallery"
+msgstr ""
+
+#: includes/classes/class-widgets.php:50 src/Advanced_Gallery.php:314
+#: src/Advanced_Gallery.php:331 src/Advanced_Gallery.php:348
+msgid "Advanced Gallery"
+msgstr ""
+
+#: includes/classes/class-widgets.php:65 includes/classes/class-widgets.php:68
+#: includes/classes/class-widgets.php:110
+msgid "Filter Name"
+msgstr ""
+
+#: includes/classes/class-widgets.php:67
+msgid "Type gallery filter name"
+msgstr ""
+
+#: includes/classes/class-widgets.php:75
+msgid "Make this default filter?"
+msgstr ""
+
+#: includes/classes/class-widgets.php:78
+msgid ""
+"Set this as default active filter. Make sure filter menu is active and "
+"visible. Last active will get priority."
+msgstr ""
+
+#: includes/classes/class-widgets.php:97
+msgid "Image Settings"
+msgstr ""
+
+#: includes/classes/class-widgets.php:101
+msgid "Upload Image"
+msgstr ""
+
+#: includes/classes/class-widgets.php:105
+msgid "Add Gallery with Filter"
+msgstr ""
+
+#: includes/classes/class-widgets.php:107
+msgid "Filter Group: %1$s"
+msgstr ""
+
+#: includes/classes/class-widgets.php:120
+msgid "Image Fit"
+msgstr ""
+
+#: includes/classes/class-widgets.php:125
+msgid "Row Height"
+msgstr ""
+
+#: includes/classes/class-widgets.php:141
+#: includes/classes/class-widgets.php:157
+msgid "Image Spacing"
+msgstr ""
+
+#: includes/classes/class-widgets.php:176
+msgid "Number of Columns"
+msgstr ""
+
+#: includes/classes/class-widgets.php:187
+msgid "Enable Lightbox"
+msgstr ""
+
+#: includes/classes/class-widgets.php:196
+msgid "Caption Settings"
+msgstr ""
+
+#: includes/classes/class-widgets.php:200
+msgid "Show Caption"
+msgstr ""
+
+#: includes/classes/class-widgets.php:206
+msgid "Caption Type"
+msgstr ""
+
+#: includes/classes/class-widgets.php:210
+msgid "Title"
+msgstr ""
+
+#: includes/classes/class-widgets.php:211
+msgid "Description"
+msgstr ""
+
+#: includes/classes/class-widgets.php:212
+msgid "Alt"
+msgstr ""
+
+#: includes/classes/class-widgets.php:213
+msgid "Caption"
+msgstr ""
+
+#: includes/classes/class-widgets.php:218
+msgid "Caption Alignment"
+msgstr ""
+
+#: includes/classes/class-widgets.php:223
+#: includes/classes/class-widgets.php:400
+msgid "Left"
+msgstr ""
+
+#: includes/classes/class-widgets.php:227
+#: includes/classes/class-widgets.php:404
+msgid "Center"
+msgstr ""
+
+#: includes/classes/class-widgets.php:231
+#: includes/classes/class-widgets.php:408
+msgid "Right"
+msgstr ""
+
+#: includes/classes/class-widgets.php:238
+msgid "Caption Layout"
+msgstr ""
+
+#: includes/classes/class-widgets.php:242
+msgid "Overlay"
+msgstr ""
+
+#: includes/classes/class-widgets.php:243
+msgid "Card"
+msgstr ""
+
+#: includes/classes/class-widgets.php:251
+msgid "Image Styling"
+msgstr ""
+
+#: includes/classes/class-widgets.php:255
+#: includes/classes/class-widgets.php:351
+msgid "Padding"
+msgstr ""
+
+#: includes/classes/class-widgets.php:266
+msgid "Border Radius"
+msgstr ""
+
+#: includes/classes/class-widgets.php:281
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/classes/class-widgets.php:290
+msgid "Enable Hover Animation"
+msgstr ""
+
+#: includes/classes/class-widgets.php:296
+msgid "Hover Animation"
+msgstr ""
+
+#: includes/classes/class-widgets.php:303
+msgid "Animation Delay"
+msgstr ""
+
+#: includes/classes/class-widgets.php:313
+msgid "Overlay Background Color"
+msgstr ""
+
+#: includes/classes/class-widgets.php:325
+msgid "Caption Styling"
+msgstr ""
+
+#: includes/classes/class-widgets.php:329
+msgid "Typography"
+msgstr ""
+
+#: includes/classes/class-widgets.php:334
+msgid "Text Color"
+msgstr ""
+
+#: includes/classes/class-widgets.php:342
+msgid "Background Color"
+msgstr ""
+
+#: includes/classes/class-widgets.php:373
+msgid "Filter Settings"
+msgstr ""
+
+#: includes/classes/class-widgets.php:378
+msgid "Show Filter"
+msgstr ""
+
+#: includes/classes/class-widgets.php:383
+msgid "Show \"All\" Text"
+msgstr ""
+
+#: includes/classes/class-widgets.php:389
+msgid "Rename \"All\" Text"
+msgstr ""
+
+#: includes/classes/class-widgets.php:395
+msgid "Filter Alignment"
+msgstr ""
+
+#: includes/classes/class-widgets.php:419
+msgid "Filter Styling"
+msgstr ""
+
+#: includes/classes/class-widgets.php:423
+msgid "Filter Typography"
+msgstr ""
+
+#: includes/classes/class-widgets.php:428
+msgid "Item Spacing"
+msgstr ""
+
+#: includes/classes/class-widgets.php:441
+msgid "Filter Border"
+msgstr ""
+
+#: includes/classes/class-widgets.php:448
+msgid "Normal"
+msgstr ""
+
+#: includes/classes/class-widgets.php:451
+#: includes/classes/class-widgets.php:474
+msgid "Filter Text Color"
+msgstr ""
+
+#: includes/classes/class-widgets.php:459
+#: includes/classes/class-widgets.php:482
+msgid "Filter Background Color"
+msgstr ""
+
+#: includes/classes/class-widgets.php:470
+msgid "Active"
+msgstr ""
+
+#: includes/classes/class-widgets.php:496
+msgid "Gallery Grid"
+msgstr ""
+
+#: includes/classes/class-widgets.php:502
+msgid "Justified Gallery"
+msgstr ""
+
+#: includes/classes/class-widgets.php:508
+msgid "Masonry Gallery"
+msgstr ""
+
+#: includes/classes/class-widgets.php:514
+msgid "Filterable Gallery"
+msgstr ""
+
+#: src/Advanced_Gallery.php:293
+#. translators: 1. Advanced Gallery Name 2. Link to Elementor Plugin.
+msgid ""
+"%1$s requires the %2$s plugin to work. Please install and activate the "
+"latest <strong>Elementor</strong> plugin first."
+msgstr ""
+
+#: src/Advanced_Gallery.php:313 src/Advanced_Gallery.php:347
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: src/Advanced_Gallery.php:315
+msgid "PHP"
+msgstr ""
+
+#: src/Advanced_Gallery.php:330
+#. translators: 1: Plugin name 2: Elementor 3: Elementor installation link
+msgid "%1$s requires %2$s to be installed and activated to function properly. %3$s"
+msgstr ""
+
+#: src/Advanced_Gallery.php:332 src/Advanced_Gallery.php:349
+msgid "Elementor"
+msgstr ""
+
+#: src/Advanced_Gallery.php:333
+msgid "Please click on this link and install Elementor"
+msgstr ""
+
+#: includes/classes/class-widget.php:392
+msgctxt "Gallery filter aria label"
+msgid "Gallery filter"
+msgstr ""
